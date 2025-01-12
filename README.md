@@ -41,7 +41,7 @@ Jun 2009 – Nov 2014** </br>
 
 - Customized and administered TFS; automated build and deployment processes.
 - Migrated systems to updated TFS versions, improving efficiency and reducing errors.
-- Involved in development in SDLC project for US client
+- Involved in development in C#, ASP.Net for SDLC project, Insurance domain and health care industries for US and Japan Clients.
   
 **Maven Consultancy — Software Consultant 
 Sep 2007 – May 2009**
