@@ -1,10 +1,15 @@
-## Hi there! 👋 I'm Nazrul Islam Choudhury  
+## Hi there! 👋 I'm Nazrul Islam Choudhury  </br>
+Experienced DevOps and Generative AI Specialist | 16+ Years in IT | Expert in CI/CD, LLMs, and AI Deployment | Driving Innovation in Agile and DevOps Methodologies
 
 ### 🚀 About Me
 
-- 16+ years of experience in DevOps, release management, database management, and software development.
-- Expertise in AWS, Docker, Kubernetes, Jenkins, GitHub, SonarQube, Python, Oracle, PostgreSQL, SQL Server, C#, ASP.Net, and Agile methodologies.
-- Proven track record in managing CI/CD pipelines, automating deployment processes, and leading large- scale software releases. 
+With over 16 years of experience in IT, I specialize in blending DevOps methodologies with cutting-edge Generative AI technologies to drive efficiency and innovation. As a DevOps Developer, Database Manager, and Release Manager, I have led cross-functional teams of over 300 professionals, managing robust applications like X-One with 3M+ lines of code and a 6,000-user base. </br>
+
+My technical acumen spans Python Programming, LLM Fine-Tuning, Prompt Engineering, Docker, Kubernetes, and Azure AI Studio. I thrive in dynamic environments, leveraging Agile principles to streamline CI/CD pipelines, enhance database efficiency, and deploy scalable AI models. </br>
+
+Currently pursuing a postgraduate certification in Generative AI from IIT Madras, I am passionate about exploring the intersection of AI and DevOps to deliver impactful solutions. Whether it’s mentoring teams, optimizing release processes, or innovating with AI, I bring a results-driven approach to every project. </br>
+
+Let’s connect to discuss how I can contribute to driving transformation in your organization!  </br>
 
 ### 🛠️ Technical Skills
 
@@ -19,10 +24,11 @@ Agile & DevOps Practices </br>
 
 **Societe Generale Global Solution Centre — Technical DevOps Lead </br>
 Apr 2016- Present** </br>
-- Managed CI/CD tools, database systems (200+ databases), and automated pipelines.
-- Orchestrated 8 major and 100+ patch releases annually for the X-One project, supporting 6,000+ users.
-- Monitored systems using Grafana, Kibana, and SonarQube, resolving database & performance issues.
-- Developed tools and scripts for automated builds, database purging, and monitoring.
+- Designed and managed CI/CD pipelines using Jenkins, Docker, and GitHub, improving deployment efficiency by 40%.
+- Oversaw 200+ databases across Oracle and PostgreSQL, automating daily refresh tasks, reducing manual workload by 25%.
+- Spearheaded the release process for X-One, coordinating 8 major and 100+ patch releases annually.
+- Implemented partitioned tables in Oracle databases, optimizing data purging and reducing query time by 30%.
+- Developed internal tools with C#, such as a purge engine and table growth monitor, enhancing operational reliability.
   
 **Atos — Tech Lead (DevOps) </br>
 Dec 2014 – Feb 2016** </br>
