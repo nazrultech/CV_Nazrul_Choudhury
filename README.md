@@ -7,7 +7,7 @@ With over 16 years of experience in IT, I specialize in blending DevOps methodol
 
 My technical acumen spans Python Programming, LLM Fine-Tuning, Prompt Engineering, Docker, Kubernetes, and Azure AI Studio. I thrive in dynamic environments, leveraging Agile principles to streamline CI/CD pipelines, enhance database efficiency, and deploy scalable AI models. </br>
 
-Currently pursuing a postgraduate certification in Generative AI from IIT Madras, I am passionate about exploring the intersection of AI and DevOps to deliver impactful solutions. Whether it’s mentoring teams, optimizing release processes, or innovating with AI, I bring a results-driven approach to every project. </br>
+Currently pursuing a postgraduate certification in Advanced Executive Program on Generative AI from IITM-Pravartak(Indian Institute of Technology Madras), I am passionate about exploring the intersection of AI and DevOps to deliver impactful solutions. Whether it’s mentoring teams, optimizing release processes, or innovating with AI, I bring a results-driven approach to every project. </br>
 
 Let’s connect to discuss how I can contribute to driving transformation in your organization!  </br>
 
